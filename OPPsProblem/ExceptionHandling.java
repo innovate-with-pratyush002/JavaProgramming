@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class ExceptionHandling{
 public static void main(String[] args){
 
-Scanner sc= new Scanner(System.in);
+Scanner sc= new Scanner(System.in);4
 System.out.print("enter numerator:");
 int nu= sc.nextInt();
 System.out.print("enter denominator:");
